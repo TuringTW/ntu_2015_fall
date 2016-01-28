@@ -1,0 +1,8 @@
+void test(){
+  TFile *_file0 = TFile::Open("muon.root");
+  _file0->isZombi.e
+ntuple->Draw("nobs");
+
+
+
+}
